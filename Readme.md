@@ -3,3 +3,4 @@
 <p align="center"><img src="https://socialify.git.ci/essexgit/codingEmotions/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">An application for an application</p>
+<cite>Credit to: <a href="https://ryanmulligan.dev/blog/css-marquee/">Ryan Mulligan</a></cite>
